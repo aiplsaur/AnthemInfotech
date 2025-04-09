@@ -231,7 +231,7 @@ export default function Team() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "priyanshi@antheminfotech.com"
+        email: "priyanshi@antheminfotech.info"
       },
       occasions: [
         { type: "Birthday", date: "July 1" },
